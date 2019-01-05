@@ -48,6 +48,7 @@ n = 0;
         super.onResume();
         Toast toast = Toast.makeText(getApplicationContext(),
                 "welcome back",Toast.LENGTH_SHORT);
+        //hello
         toast.show();
     }
 }
